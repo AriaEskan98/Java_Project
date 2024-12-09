@@ -1,0 +1,14 @@
+{
+    "configurations": [
+    {
+        "type": "java",
+        "name": "Launch Java Program",
+        "request": "launch",
+        "mainClass": "StudentTable",
+        "classpath": [
+            "lib/mysql-connector-j-9.1.0.jar",
+        "bin"],
+        "vmArgs": "--enable-preview"
+    }
+    ]
+}
